@@ -1,5 +1,6 @@
 payload:
   # > Lark
-  - PROCESS-NAME,Lark.exe
+  - PROCESS-NAME,Lark
+  - PROCESS-NAME,Lark Helper
   - DOMAIN-KEYWORD,byteoversea
   - DOMAIN-KEYWORD,lark

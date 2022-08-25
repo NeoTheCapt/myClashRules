@@ -1,3 +1,4 @@
+rules:
   - PROCESS-NAME,Lark.exe,Proxy
   - DOMAIN-KEYWORD,byteoversea,Proxy
   - DOMAIN-KEYWORD,lark,Proxy
